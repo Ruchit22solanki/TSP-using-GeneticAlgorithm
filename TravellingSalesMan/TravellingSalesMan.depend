@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1573815973 source:e:\5th sem\optimization\project\travellingsalesman\main.cpp
+	<bits/stdc++.h>
+	<random>
+	"TravellingPath.h"
+	"GeneticAlgorithm.h"
+
+1573649693 e:\5th sem\optimization\project\travellingsalesman\include\travellingpath.h
+	<bits/stdc++.h>
+
+1573729976 source:e:\5th sem\optimization\project\travellingsalesman\src\travellingpath.cpp
+	"TravellingPath.h"
+
+1573815941 source:e:\5th sem\optimization\project\travellingsalesman\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+
+1573815272 e:\5th sem\optimization\project\travellingsalesman\include\geneticalgorithm.h
+	"TravellingPath.h"
+	<bits/stdc++.h>
+
